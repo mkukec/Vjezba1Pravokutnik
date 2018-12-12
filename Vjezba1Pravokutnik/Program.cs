@@ -20,6 +20,7 @@ namespace Vjezba1Pravokutnik
 
             Pravokutnik p2 = new Pravokutnik(3, 4);
 
+            Console.WriteLine("Površina : {0}", p2.izracunajPovrsinu());
 
         }
     }

@@ -15,6 +15,12 @@ namespace Vjezba1Pravokutnik
             // > nije ga moguće stvoriti bez zadavanja dimenzija
             // > ima metode za postavljanje/dohvat vrijednosti
 
+
+            // Pravokutnik p1 = new Pravokutnik();
+
+            Pravokutnik p2 = new Pravokutnik(3, 4);
+
+
         }
     }
 }
